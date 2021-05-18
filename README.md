@@ -1,4 +1,4 @@
 # bashrc-settings
 Custom bash commands
 
-My main configuration files
+My personal configuration file
