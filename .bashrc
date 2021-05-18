@@ -1,6 +1,6 @@
-# Copy this to the end of your .bashrc file
+# Copy this to the end of my .bashrc file
 
-# Python Virtualenvwrapper settings:
+# Python Virtualenvwrapper settings, replace /user/ with the actual username:
 export WORKON_HOME=$HOME/.virtualenvs
 export PROJECT_HOME=$HOME/path/to/pythonprojects
 export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
