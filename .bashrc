@@ -6,3 +6,7 @@ export PROJECT_HOME=$HOME/path/to/pythonprojects
 export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
 export VIRTUALENVWRAPPER_VIRTUALENV=/home/user/.local/bin/virtualenv
 source /home/user/.local/bin/virtualenvwrapper.sh
+
+# Dotnet snap DOTNET_ROOT environment variable configuration (used by tools)
+export DOTNET_ROOT=/snap/dotnet-sdk/current
+
